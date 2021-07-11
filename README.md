@@ -6,7 +6,7 @@ First, I want to find the characteristics of securities derived from social medi
 
 Second, I predict excess return using sentiment scores and Fama-French factors, as well as understand what features explain the variance the most.
 
-Third,  I want to xxplore how our extracted sentimental scores are related or affecting the fluctuations of stock returns.
+Third,  I want to explore how our extracted sentimental scores are related or affecting the fluctuations of stock returns.
 
 In this project, I applied several data mining and machine learning techniques.
 1. Fin-BERT and LSTM NLP models that convert text into sentiment scores.
